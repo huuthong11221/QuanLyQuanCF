@@ -1,0 +1,13 @@
+D:\QLCF15_02_2025\QLCF\QuanLyCF_HuuThong\QuanLyCF_HuuThong\bin\Debug\QuanLyCF_HuuThong.exe.config
+D:\QLCF15_02_2025\QLCF\QuanLyCF_HuuThong\QuanLyCF_HuuThong\bin\Debug\QuanLyCF_HuuThong.exe
+D:\QLCF15_02_2025\QLCF\QuanLyCF_HuuThong\QuanLyCF_HuuThong\bin\Debug\QuanLyCF_HuuThong.pdb
+D:\QLCF15_02_2025\QLCF\QuanLyCF_HuuThong\QuanLyCF_HuuThong\obj\Debug\QuanLyCF_HuuThong.csprojAssemblyReference.cache
+D:\QLCF15_02_2025\QLCF\QuanLyCF_HuuThong\QuanLyCF_HuuThong\obj\Debug\QuanLyCF_HuuThong.flogin.resources
+D:\QLCF15_02_2025\QLCF\QuanLyCF_HuuThong\QuanLyCF_HuuThong\obj\Debug\QuanLyCF_HuuThong.Properties.Resources.resources
+D:\QLCF15_02_2025\QLCF\QuanLyCF_HuuThong\QuanLyCF_HuuThong\obj\Debug\QuanLyCF_HuuThong.csproj.GenerateResource.cache
+D:\QLCF15_02_2025\QLCF\QuanLyCF_HuuThong\QuanLyCF_HuuThong\obj\Debug\QuanLyCF_HuuThong.csproj.CoreCompileInputs.cache
+D:\QLCF15_02_2025\QLCF\QuanLyCF_HuuThong\QuanLyCF_HuuThong\obj\Debug\QuanLyCF_HuuThong.exe
+D:\QLCF15_02_2025\QLCF\QuanLyCF_HuuThong\QuanLyCF_HuuThong\obj\Debug\QuanLyCF_HuuThong.pdb
+D:\QLCF15_02_2025\QLCF\QuanLyCF_HuuThong\QuanLyCF_HuuThong\obj\Debug\QuanLyCF_HuuThong.fTablemanager.resources
+D:\QLCF15_02_2025\QLCF\QuanLyCF_HuuThong\QuanLyCF_HuuThong\obj\Debug\QuanLyCF_HuuThong.fAccountProfile.resources
+D:\QLCF15_02_2025\QLCF\QuanLyCF_HuuThong\QuanLyCF_HuuThong\obj\Debug\QuanLyCF_HuuThong.fAdmin.resources
